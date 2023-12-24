@@ -1,0 +1,2 @@
+Greetings Humans, I am an amateur and beginner python programmer. In the real world I work in science. I love to learn new things, especially about science and how things work/function. I enjoy challenges as well and to contemplate about the universe.
+It makes me happy when I see someone come up with an elaborate piece of code or program, and I marvel at good script when I look at it. I hate taking credit for other people's work.
